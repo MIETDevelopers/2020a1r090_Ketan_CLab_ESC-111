@@ -8,7 +8,7 @@ struct s{  //structures to create a user defined data type
 int main(){ //Main function body starting
     struct s a[5], b[5];
     FILE *fptr;
-    fptr=fopen("C:\Users\aadha\OneDrive\Desktop"); //For opening the file
+    fptr=fopen("C:\Users\ketan\OneDrive\Desktop"); //For opening the file
 
     for (int i=0; i<5; ++i) //For loop to take details from the user
     {
